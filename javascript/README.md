@@ -8,7 +8,7 @@ Keysignpay allows for easy tnbc transactions.
 * Plug and play
 
 
-Guide on how data is sent back and structured from the extension: [here](https://github.com/Keysign-Wallet/keysign/blob/master/DOCS.md#requesttransfer)
+## Guide on how data is sent back and structured from the extension: [here](https://github.com/Keysign-Wallet/keysign/blob/master/DOCS.md#requesttransfer)
 
 How you scan for the transaction depends on the libary you are using.
 
