@@ -116,6 +116,10 @@ img {
   max-width: 100%;
 }
 
+.button-primary {
+  cursor: pointer;
+}
+
 .ksp-container {
   max-width: 375px;
   width: 100%;
